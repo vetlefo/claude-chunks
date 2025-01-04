@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "target": "ES2022",
+    "target": "ES2020",
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
-    "outDir": "./dist",
+    "outDir": "./build",
     "rootDir": "./src",
     "strict": true,
     "esModuleInterop": true,
@@ -11,5 +11,5 @@
     "forceConsistentCasingInFileNames": true
   },
   "include": ["src/**/*"],
-  "exclude": ["node_modules", "**/*.test.ts"]
+  "exclude": ["node_modules"]
 }

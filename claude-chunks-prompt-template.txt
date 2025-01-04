@@ -1,0 +1,50 @@
+# Claude-Chunks Task Execution Template
+
+## Task Identification
+- Task ID: [auto-generated]
+- Parent Task: [if applicable]
+- Dependencies: [list of required tasks]
+
+## Sequential Thinking Steps
+1. Analysis Phase
+   - [ ] Task understanding
+   - [ ] Requirements gathering
+   - [ ] Context analysis
+   - [ ] Dependency verification
+
+2. Planning Phase
+   - [ ] Solution design
+   - [ ] Implementation strategy
+   - [ ] Testing approach
+   - [ ] Documentation plan
+
+3. Execution Phase
+   - [ ] Code implementation
+   - [ ] Testing execution
+   - [ ] Debugging process
+   - [ ] Documentation updates
+
+4. Validation Phase
+   - [ ] Code review
+   - [ ] Testing validation
+   - [ ] Documentation verification
+   - [ ] Task completion
+
+## Documentation Requirements
+- Implementation Details
+- Testing Procedures
+- Debugging Notes
+- Version History
+- Cross-References
+
+## Debugging Protocol
+1. Error Identification
+2. Context Preservation
+3. Error Analysis
+4. Solution Implementation
+5. Validation
+
+## Version Control
+- Branch: [feature/release/hotfix/documentation]
+- Commit Message: [standard format]
+- Related Tasks: [cross-references]
