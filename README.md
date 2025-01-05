@@ -2,6 +2,8 @@
 
 An intelligent document chunking MCP server optimized for Claude context windows. Split large documents into meaningful, context-aware chunks that can be progressively processed by Claude.
 
+<a href="https://glama.ai/mcp/servers/w8yob2uc16"><img width="380" height="200" src="https://glama.ai/mcp/servers/w8yob2uc16/badge" alt="Claude Chunks MCP server" /></a>
+
 ## Overview
 
 Claude Chunks helps you process large documents (like books, theses, or long papers) by:
